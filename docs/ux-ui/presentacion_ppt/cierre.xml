@@ -1,0 +1,38 @@
+<slide id="cierre">
+  <background color="bg-main"/>
+  <shape id="corner-h" type="line" x="1110" y="60" width="110" height="0" stroke="accent" stroke-width="4"/>
+  <shape id="corner-v" type="line" x="1220" y="60" width="0" height="90" stroke="accent" stroke-width="4"/>
+  <shape id="accent-bar" type="rect" x="80" y="154" width="125" height="9" corner-radius="5" fill="accent"/>
+  <text id="slide-kicker" x="80" y="64" width="330" height="22" font="caption" size="14" color="accent">11 · CIERRE Y EVOLUCIÓN</text>
+  <text id="slide-title" x="80" y="98" width="820" height="54" font="heading" size="42" color="surface-white">Validación, límites y próximos pasos</text>
+  <shape id="validation-card" type="rect" x="80" y="230" width="580" height="300" corner-radius="22" fill="surface-white" shadow="true"/>
+  <icon id="validation-icon" name="badge-check" x="115" y="265" width="42" height="42" color="state-ok"/>
+  <text id="validation-kicker" x="178" y="272" width="240" height="17" font="caption" size="13" color="#526274">EVIDENCIA DEL MVP</text>
+  <text id="validation-title" x="115" y="336" width="380" height="35" font="body" size="28" color="bg-main"><strong>Listo para demostrar</strong></text>
+  <shape id="validation-stat-1" type="rect" x="115" y="402" width="138" height="78" corner-radius="14" fill="#EAF6F1"/>
+  <text id="validation-stat-1-value" x="115" y="417" width="138" height="27" font="body" size="25" color="bg-main" align="center"><strong>36</strong></text>
+  <text id="validation-stat-1-label" x="115" y="451" width="138" height="14" font="caption" size="11" color="#526274" align="center">PRUEBAS</text>
+  <shape id="validation-stat-2" type="rect" x="270" y="402" width="138" height="78" corner-radius="14" fill="surface-silver"/>
+  <text id="validation-stat-2-value" x="270" y="417" width="138" height="27" font="body" size="22" color="bg-main" align="center"><strong>0</strong></text>
+  <text id="validation-stat-2-label" x="270" y="451" width="138" height="14" font="caption" size="11" color="#526274" align="center">ERRORES TS</text>
+  <shape id="validation-stat-3" type="rect" x="425" y="402" width="138" height="78" corner-radius="14" fill="#FFF6D7"/>
+  <text id="validation-stat-3-value" x="425" y="417" width="138" height="27" font="body" size="22" color="bg-main" align="center"><strong>3</strong></text>
+  <text id="validation-stat-3-label" x="425" y="451" width="138" height="14" font="caption" size="11" color="#526274" align="center">ROLES</text>
+  <text id="validation-foot" x="115" y="495" width="460" height="16" font="caption" size="12" color="#526274">Flujos auditados: QR, actividades, entregas, justificaciones y navegación.</text>
+  <text id="next-label" x="720" y="233" width="250" height="19" font="caption" size="14" color="accent">PRÓXIMAS ITERACIONES</text>
+  <shape id="next-card-1" type="rect" x="720" y="268" width="480" height="78" corner-radius="15" fill="#FFFFFF18" stroke="#FFFFFF30" stroke-width="1"/>
+  <icon id="next-icon-1" name="bell-ring" x="744" y="291" width="28" height="28" color="accent"/>
+  <text id="next-title-1" x="790" y="284" width="370" height="19" font="body" size="16" color="surface-white"><strong>Notificaciones</strong></text>
+  <text id="next-body-1" x="790" y="310" width="370" height="16" font="caption" size="12" color="surface-silver">Avisos de vencimiento y resolución de justificaciones.</text>
+  <shape id="next-card-2" type="rect" x="720" y="362" width="480" height="78" corner-radius="15" fill="#FFFFFF18" stroke="#FFFFFF30" stroke-width="1"/>
+  <icon id="next-icon-2" name="upload" x="744" y="385" width="28" height="28" color="accent"/>
+  <text id="next-title-2" x="790" y="378" width="370" height="19" font="body" size="16" color="surface-white"><strong>Entrega real del Alumno</strong></text>
+  <text id="next-body-2" x="790" y="404" width="370" height="16" font="caption" size="12" color="surface-silver">Adjuntos directamente desde la actividad pendiente.</text>
+  <shape id="next-card-3" type="rect" x="720" y="456" width="480" height="78" corner-radius="15" fill="#FFFFFF18" stroke="#FFFFFF30" stroke-width="1"/>
+  <icon id="next-icon-3" name="chart-column-big" x="744" y="479" width="28" height="28" color="accent"/>
+  <text id="next-title-3" x="790" y="472" width="370" height="19" font="body" size="16" color="surface-white"><strong>Indicadores administrativos</strong></text>
+  <text id="next-body-3" x="790" y="498" width="370" height="16" font="caption" size="12" color="surface-silver">Tablero de asistencia y alertas por comisión.</text>
+  <shape id="closing-band" type="rect" x="80" y="590" width="1120" height="58" corner-radius="18" fill="accent"/>
+  <text id="closing-quote" x="110" y="605" width="1060" height="25" font="body" size="19" color="bg-main" align="center"><strong>Procesos académicos dispersos → recorridos móviles claros, trazables y orientados por rol.</strong></text>
+  <text id="slide-number" x="1180" y="675" width="40" height="20" font="caption" size="14" color="surface-silver" align="right">12</text>
+</slide>

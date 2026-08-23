@@ -1,0 +1,50 @@
+<slide id="alumno">
+  <background color="bg-main"/>
+  <shape id="corner-h" type="line" x="1110" y="60" width="110" height="0" stroke="accent" stroke-width="4"/>
+  <shape id="corner-v" type="line" x="1220" y="60" width="0" height="90" stroke="accent" stroke-width="4"/>
+  <text id="slide-kicker" x="80" y="64" width="310" height="22" font="caption" size="14" color="accent">04 · EXPERIENCIA ALUMNO</text>
+  <text id="slide-title" x="80" y="98" width="620" height="55" font="heading" size="42" color="surface-white">Inicio centrado en las clases</text>
+  <text id="flow-label" x="80" y="178" width="545" height="30" font="body" size="19" color="surface-silver">Inicio <strong color="accent">→</strong> Clase <strong color="accent">→</strong> Actividades / Asistencia / Nota</text>
+  <shape id="student-principle-1" type="rect" x="80" y="242" width="565" height="74" corner-radius="16" fill="#FFFFFF18" stroke="#FFFFFF30" stroke-width="1"/>
+  <icon id="student-principle-icon-1" name="layers-2" x="102" y="262" width="28" height="28" color="accent"/>
+  <text id="student-principle-title-1" x="150" y="253" width="440" height="23" font="body" size="17" color="surface-white"><strong>Una materia, una puerta de entrada</strong></text>
+  <text id="student-principle-body-1" x="150" y="280" width="440" height="19" font="caption" size="13" color="surface-silver">Tarjetas únicas; sin resúmenes duplicados ni pantallas irrelevantes.</text>
+  <shape id="student-principle-2" type="rect" x="80" y="334" width="565" height="74" corner-radius="16" fill="#FFFFFF18" stroke="#FFFFFF30" stroke-width="1"/>
+  <icon id="student-principle-icon-2" name="chart-line" x="102" y="354" width="28" height="28" color="accent"/>
+  <text id="student-principle-title-2" x="150" y="345" width="440" height="23" font="body" size="17" color="surface-white"><strong>Seguimiento dentro del contexto</strong></text>
+  <text id="student-principle-body-2" x="150" y="372" width="440" height="19" font="caption" size="13" color="surface-silver">Asistencia, nota actual y entregas se leen desde la clase elegida.</text>
+  <shape id="student-principle-3" type="rect" x="80" y="426" width="565" height="74" corner-radius="16" fill="#FFFFFF18" stroke="#FFFFFF30" stroke-width="1"/>
+  <icon id="student-principle-icon-3" name="badge-check" x="102" y="446" width="28" height="28" color="accent"/>
+  <text id="student-principle-title-3" x="150" y="437" width="440" height="23" font="body" size="17" color="surface-white"><strong>Estados académicos explícitos</strong></text>
+  <text id="student-principle-body-3" x="150" y="464" width="440" height="19" font="caption" size="13" color="surface-silver">Pendiente, en revisión y cerrada con texto, icono y color.</text>
+  <shape id="status-chip-1" type="rect" x="80" y="535" width="165" height="36" corner-radius="18" fill="#FFF6D7"/>
+  <text id="status-chip-text-1" x="80" y="544" width="165" height="16" font="caption" size="12" color="bg-main" align="center"><strong>PENDIENTE</strong></text>
+  <shape id="status-chip-2" type="rect" x="261" y="535" width="165" height="36" corner-radius="18" fill="surface-silver"/>
+  <text id="status-chip-text-2" x="261" y="544" width="165" height="16" font="caption" size="12" color="bg-main" align="center"><strong>EN REVISIÓN</strong></text>
+  <shape id="status-chip-3" type="rect" x="442" y="535" width="165" height="36" corner-radius="18" fill="#EAF6F1"/>
+  <text id="status-chip-text-3" x="442" y="544" width="165" height="16" font="caption" size="12" color="bg-main" align="center"><strong>CERRADA</strong></text>
+  <shape id="student-ui-shadow" type="rect" x="775" y="174" width="390" height="425" corner-radius="24" fill="#00000055"/>
+  <shape id="student-ui-frame" type="rect" x="765" y="164" width="390" height="425" corner-radius="24" fill="surface-white"/>
+  <shape id="student-ui-header" type="rect" x="785" y="184" width="350" height="72" corner-radius="17" fill="bg-main"/>
+  <text id="student-ui-kicker" x="805" y="201" width="220" height="17" font="caption" size="12" color="surface-silver">MI CLASE</text>
+  <text id="student-ui-title" x="805" y="222" width="250" height="24" font="body" size="18" color="surface-white">Bases de Datos</text>
+  <shape id="student-ui-attendance" type="rect" x="785" y="274" width="106" height="78" corner-radius="14" fill="surface-silver"/>
+  <text id="student-ui-attendance-label" x="795" y="287" width="86" height="15" font="caption" size="11" color="#526274" align="center">ASISTENCIA</text>
+  <text id="student-ui-attendance-value" x="795" y="311" width="86" height="25" font="body" size="21" color="bg-main" align="center"><strong>92%</strong></text>
+  <shape id="student-ui-grade" type="rect" x="902" y="274" width="106" height="78" corner-radius="14" fill="#FFF6D7"/>
+  <text id="student-ui-grade-label" x="912" y="287" width="86" height="15" font="caption" size="11" color="#526274" align="center">NOTA</text>
+  <text id="student-ui-grade-value" x="912" y="311" width="86" height="25" font="body" size="21" color="bg-main" align="center"><strong>8,5</strong></text>
+  <shape id="student-ui-pending" type="rect" x="1019" y="274" width="116" height="78" corner-radius="14" fill="#EAF6F1"/>
+  <text id="student-ui-pending-label" x="1029" y="287" width="96" height="15" font="caption" size="11" color="#526274" align="center">ACTIVIDADES</text>
+  <text id="student-ui-pending-value" x="1029" y="311" width="96" height="25" font="body" size="21" color="bg-main" align="center"><strong>3</strong></text>
+  <shape id="student-ui-task" type="rect" x="785" y="370" width="350" height="94" corner-radius="14" fill="surface-silver"/>
+  <text id="student-ui-task-title" x="805" y="388" width="215" height="20" font="body" size="15" color="bg-main"><strong>TP · Modelo relacional</strong></text>
+  <text id="student-ui-task-detail" x="805" y="416" width="220" height="16" font="caption" size="12" color="#526274">Vence el viernes · Adjuntar archivo</text>
+  <shape id="student-ui-task-chip" type="rect" x="1029" y="395" width="80" height="24" corner-radius="12" fill="accent"/>
+  <text id="student-ui-task-chip-text" x="1029" y="402" width="80" height="12" font="caption" size="10" color="bg-main" align="center"><strong>PENDIENTE</strong></text>
+  <shape id="student-ui-history" type="rect" x="785" y="484" width="350" height="72" corner-radius="14" fill="bg-main"/>
+  <icon id="student-ui-history-icon" name="clipboard-check" x="804" y="505" width="26" height="26" color="accent"/>
+  <text id="student-ui-history-title" x="842" y="500" width="250" height="18" font="body" size="15" color="surface-white">Registro de asistencia</text>
+  <text id="student-ui-history-detail" x="842" y="525" width="250" height="14" font="caption" size="11" color="surface-silver">Ausencias y justificaciones</text>
+  <text id="slide-number" x="1180" y="665" width="40" height="20" font="caption" size="14" color="surface-silver" align="right">05</text>
+</slide>

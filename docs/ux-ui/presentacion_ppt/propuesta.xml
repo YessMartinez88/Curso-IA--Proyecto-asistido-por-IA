@@ -1,0 +1,34 @@
+<slide id="propuesta">
+  <background color="bg-main"/>
+  <shape id="corner-h" type="line" x="1110" y="60" width="110" height="0" stroke="accent" stroke-width="4"/>
+  <shape id="corner-v" type="line" x="1220" y="60" width="0" height="90" stroke="accent" stroke-width="4"/>
+  <text id="slide-kicker" x="80" y="64" width="330" height="22" font="caption" size="14" color="accent">02 · PROPUESTA DE VALOR</text>
+  <text id="slide-title" x="80" y="98" width="760" height="54" font="heading" size="42" color="surface-white">Una experiencia académica contextual</text>
+  <text id="slide-intro" x="80" y="168" width="930" height="34" font="body" size="21" color="surface-silver">Cada usuario ve el contexto y las decisiones que le corresponden.</text>
+  <shape id="process-line" type="line" x="175" y="282" width="880" height="0" stroke="accent" stroke-width="5"/>
+  <shape id="process-node-1" type="ellipse" x="140" y="247" width="70" height="70" fill="accent"/>
+  <icon id="process-icon-1" name="book-open" x="158" y="265" width="34" height="34" color="bg-main"/>
+  <text id="process-label-1" x="98" y="330" width="154" height="25" font="body" size="17" color="surface-white" align="center">Clase</text>
+  <shape id="process-node-2" type="ellipse" x="440" y="247" width="70" height="70" fill="surface-white"/>
+  <icon id="process-icon-2" name="scan-line" x="458" y="265" width="34" height="34" color="bg-main"/>
+  <text id="process-label-2" x="388" y="330" width="174" height="25" font="body" size="17" color="surface-white" align="center">Asistencia QR</text>
+  <shape id="process-node-3" type="ellipse" x="740" y="247" width="70" height="70" fill="surface-white"/>
+  <icon id="process-icon-3" name="file-check-2" x="758" y="265" width="34" height="34" color="bg-main"/>
+  <text id="process-label-3" x="686" y="330" width="178" height="25" font="body" size="17" color="surface-white" align="center">Actividad</text>
+  <shape id="process-node-4" type="ellipse" x="1040" y="247" width="70" height="70" fill="state-ok"/>
+  <icon id="process-icon-4" name="chart-no-axes-combined" x="1058" y="265" width="34" height="34" color="surface-white"/>
+  <text id="process-label-4" x="982" y="330" width="185" height="25" font="body" size="17" color="surface-white" align="center">Seguimiento</text>
+  <shape id="feature-card-1" type="rect" x="80" y="420" width="344" height="190" corner-radius="18" fill="surface-white" shadow="true"/>
+  <icon id="feature-icon-1" name="clock-3" x="108" y="448" width="32" height="32" color="bg-main"/>
+  <text id="feature-title-1" x="108" y="500" width="280" height="30" font="body" size="20" color="bg-main"><strong>Presencia ágil</strong></text>
+  <text id="feature-body-1" x="108" y="542" width="276" height="44" font="body" size="16" color="#526274" line-height="1.3">Sesión QR temporal por comisión, con validación de inscripción.</text>
+  <shape id="feature-card-2" type="rect" x="468" y="420" width="344" height="190" corner-radius="18" fill="surface-silver" shadow="true"/>
+  <icon id="feature-icon-2" name="layers-3" x="496" y="448" width="32" height="32" color="bg-main"/>
+  <text id="feature-title-2" x="496" y="500" width="280" height="30" font="body" size="20" color="bg-main"><strong>Clase como unidad</strong></text>
+  <text id="feature-body-2" x="496" y="542" width="276" height="44" font="body" size="16" color="#526274" line-height="1.3">Asistencia, nota y actividades reunidas en el mismo detalle.</text>
+  <shape id="feature-card-3" type="rect" x="856" y="420" width="344" height="190" corner-radius="18" fill="#FFF6D7" shadow="true"/>
+  <icon id="feature-icon-3" name="file-search" x="884" y="448" width="32" height="32" color="bg-main"/>
+  <text id="feature-title-3" x="884" y="500" width="280" height="30" font="body" size="20" color="bg-main"><strong>Trazabilidad visible</strong></text>
+  <text id="feature-body-3" x="884" y="542" width="276" height="44" font="body" size="16" color="#526274" line-height="1.3">Entregas, devoluciones y justificaciones con estado explícito.</text>
+  <text id="slide-number" x="1180" y="665" width="40" height="20" font="caption" size="14" color="surface-silver" align="right">03</text>
+</slide>

@@ -1,0 +1,25 @@
+<slide id="problema">
+  <background color="bg-main"/>
+  <shape id="corner-h" type="line" x="1110" y="60" width="110" height="0" stroke="accent" stroke-width="4"/>
+  <shape id="corner-v" type="line" x="1220" y="60" width="0" height="90" stroke="accent" stroke-width="4"/>
+  <text id="slide-kicker" x="80" y="64" width="260" height="22" font="caption" size="14" color="accent">01 · CONTEXTO</text>
+  <text id="slide-title" x="80" y="98" width="650" height="54" font="heading" size="42" color="surface-white">¿Qué problema resuelve?</text>
+  <text id="slide-intro" x="770" y="104" width="430" height="60" font="body" size="19" color="surface-silver" line-height="1.3">La información académica suele quedar fragmentada entre canales y registros desconectados.</text>
+  <shape id="problem-card-1" type="rect" x="80" y="230" width="536" height="165" corner-radius="18" fill="surface-silver" shadow="true"/>
+  <icon id="problem-icon-1" name="qr-code" x="108" y="257" width="32" height="32" color="bg-main"/>
+  <text id="problem-title-1" x="158" y="255" width="420" height="28" font="body" size="21" color="bg-main"><strong>Asistencia lenta o ambigua</strong></text>
+  <text id="problem-body-1" x="108" y="309" width="460" height="55" font="body" size="17" color="#405064" line-height="1.3">Registrar presencia demanda tiempo y puede generar dudas o duplicados.</text>
+  <shape id="problem-card-2" type="rect" x="664" y="230" width="536" height="165" corner-radius="18" fill="surface-white" shadow="true"/>
+  <icon id="problem-icon-2" name="folders" x="692" y="257" width="32" height="32" color="bg-main"/>
+  <text id="problem-title-2" x="742" y="255" width="420" height="28" font="body" size="21" color="bg-main"><strong>Información dispersa</strong></text>
+  <text id="problem-body-2" x="692" y="309" width="460" height="55" font="body" size="17" color="#405064" line-height="1.3">Materias, notas, tareas y ausencias aparecen en lugares diferentes.</text>
+  <shape id="problem-card-3" type="rect" x="80" y="425" width="536" height="165" corner-radius="18" fill="surface-white" shadow="true"/>
+  <icon id="problem-icon-3" name="clipboard-list" x="108" y="452" width="32" height="32" color="bg-main"/>
+  <text id="problem-title-3" x="158" y="450" width="420" height="28" font="body" size="21" color="bg-main"><strong>Entregas sin trazabilidad</strong></text>
+  <text id="problem-body-3" x="108" y="504" width="460" height="55" font="body" size="17" color="#405064" line-height="1.3">No siempre se sabe qué se entregó, qué falta revisar o cuál fue la devolución.</text>
+  <shape id="problem-card-4" type="rect" x="664" y="425" width="536" height="165" corner-radius="18" fill="#FFF6D7" shadow="true"/>
+  <icon id="problem-icon-4" name="file-warning" x="692" y="452" width="32" height="32" color="bg-main"/>
+  <text id="problem-title-4" x="742" y="450" width="420" height="28" font="body" size="21" color="bg-main"><strong>Justificaciones informales</strong></text>
+  <text id="problem-body-4" x="692" y="504" width="460" height="55" font="body" size="17" color="#405064" line-height="1.3">Faltan evidencia, estado de revisión y una decisión explícita.</text>
+  <text id="slide-number" x="1180" y="665" width="40" height="20" font="caption" size="14" color="surface-silver" align="right">02</text>
+</slide>

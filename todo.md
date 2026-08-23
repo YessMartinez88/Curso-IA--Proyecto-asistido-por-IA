@@ -1,0 +1,71 @@
+# Project TODO
+
+- [x] Aplicar el sistema visual azul oscuro, gris plata, blanco y amarillo sutil.
+- [x] Crear pantalla de acceso y selección de perfil de demostración.
+- [x] Construir navegación inferior adaptada por rol.
+- [x] Implementar panel y agenda del alumno.
+- [x] Ampliar la agenda con una vista de 14 días y clases agrupadas por fecha.
+- [x] Implementar pantalla de registro de asistencia por QR en modo demostración.
+- [x] Implementar historial de asistencia y justificaciones del alumno.
+- [x] Implementar resumen de notas, evaluaciones y trabajos prácticos del alumno.
+- [x] Implementar detalle de evaluación y seguimiento de trabajos prácticos del alumno.
+- [x] Validar el recorrido académico del alumno.
+- [x] Implementar historial de asistencia del alumno con filtros y detalle de cada registro.
+- [x] Implementar creación, adjunto de demostración y seguimiento de justificaciones del alumno.
+- [x] Validar el flujo completo del alumno desde la asistencia QR hasta la justificación.
+- [x] Implementar panel del docente y sesión de clase con QR de demostración.
+- [ ] Implementar pantallas de comisiones, evaluaciones y notas del docente.
+- [x] Implementar panel administrativo y gestión de comisiones de demostración.
+- [x] Permitir completar, validar y activar una comisión administrativa persistente.
+- [x] Persistir el estado de borrador o activa y los datos completos de una comisión.
+- [x] Validar materia, código, docente, aula, horario y al menos un alumno antes de activar.
+- [x] Implementar revisión y confirmación de activación en el formulario administrativo.
+- [x] 2.1 Comisión: permitir agregar y visualizar múltiples alumnos inscriptos por comisión.
+- [x] 2.1 Comisión: permitir desactivar una inscripción conservando su trazabilidad.
+- [x] 2.1 Comisión: validar la gestión de inscriptos y su disponibilidad para asistencia.
+- [x] 2.2 Docente: mostrar las comisiones activas correspondientes al docente responsable.
+- [x] 2.2 Docente: seleccionar una comisión y visualizar sus alumnos habilitados antes de abrir clase.
+- [x] 2.2 Docente: abrir y cerrar una sesión QR asociada a la comisión seleccionada.
+- [x] 2.2 Docente: validar el flujo de comisión seleccionada y asistencia docente.
+- [x] 2.3 Alumno: mostrar únicamente las comisiones activas donde Sofía Ramírez está inscripta.
+- [x] 2.3 Alumno: seleccionar una comisión y reflejar si su clase tiene sesión activa.
+- [x] 2.3 Alumno: registrar asistencia e historial con la materia asociada a la comisión seleccionada.
+- [x] 2.3 Alumno: validar el flujo de consulta y asistencia por comisión.
+- [x] Crear un detalle reutilizable de clase para el alumno con estado de sesión y asistencia contextual.
+- [x] Enlazar las clases de Hoy y de Agenda al detalle reutilizable.
+- [x] Validar la navegación desde ambas vistas hacia el detalle de clase.
+- [x] 2.4 QR: solicitar y gestionar permisos de cámara para el escaneo de asistencia.
+- [x] 2.4 QR: leer códigos QR reales y enviarlos a la validación de asistencia.
+- [x] 2.4 QR: conservar un modo de demostración seguro cuando la cámara no esté disponible.
+- [x] 2.4 QR: validar el escaneo y los estados de éxito, duplicado y código vencido.
+- [x] Persistir una comisión de demostración, su aula, docente y alumno asignado.
+- [x] Implementar sesión de clase con QR temporal y validación de vigencia.
+- [x] Registrar asistencia del alumno y reflejarla en el historial persistente.
+- [x] Conectar los controles administrativos, docentes y del alumno al flujo de asistencia mínimo.
+- [x] Validar el flujo de asistencia de punta a punta con pruebas deterministas.
+- [x] Crear perfil y salida de sesión.
+- [x] Agregar pruebas unitarias para la selección de rol y las acciones principales.
+- [x] Generar icono de la aplicación y actualizar la configuración de marca.
+- [x] Verificar tipado, pruebas y flujo de interacción antes de la primera entrega.
+- [x] Restaurar el proyecto al checkpoint original del flujo QR aportado por la usuaria y verificar la vista previa.
+- [x] Reimplementar vistas de demostración y navegación por rol para Alumno, Docente y Administrativo.
+- [x] Diagnosticar y corregir el error de apertura «Unable to acti…» reportado en el modo demostración.
+- [x] Alumno: mostrar todas sus clases en Inicio y centralizar por clase asistencia, actividades, entregas, revisión y notas.
+- [x] Alumno: construir tarjetas únicas de clase desde los datos demo de agenda y seguimiento.
+- [x] Alumno: mostrar en cada detalle asistencia, notas y actividades filtradas por materia.
+- [x] Alumno: clasificar actividades en pendientes de entrega, en espera de revisión y cerradas.
+- [x] Validar el recorrido Inicio → clase → actividad y conservar los accesos a recordatorios y agenda.
+- [x] Docente: crear actividades por clase con título, descripción, archivo adjunto y fecha límite.
+- [x] Docente: revisar entregas recibidas, asignar calificación y enviar devolución al alumno.
+- [x] Validar el flujo docente de actividad desde la creación hasta la devolución.
+- [x] Ocultar las demás identidades al ingresar al modo demostración y permitir el cambio solo desde Perfil.
+- [x] Auditar y validar todos los flujos y enlaces de Alumno, Docente y Administrativo.
+- [x] Recuperar el acceso al registro de asistencia por clase para Alumno.
+- [x] Alumno: crear justificación de inasistencia con comentario y/o archivo adjunto.
+- [x] Docente y Administrativo: consultar, validar o rechazar justificaciones de inasistencia.
+- [x] Validar el circuito completo de justificaciones sin modificar funciones existentes.
+- [x] Redactar un informe UX/UI de Asistencia Instituto para acompañar la capacitación.
+- [x] Crear una presentación PPT del informe UX/UI para la capacitación.
+- [x] Documentar en español los archivos propios y las funciones del proyecto sin cambiar su comportamiento.
+- [x] Alinear la ejecución local de VS Code con la versión demo actual y corregir la configuración Expo/TypeScript/alias.
+- [ ] Preparar un paquete seguro para compartir, excluyendo secretos y archivos internos del entorno.

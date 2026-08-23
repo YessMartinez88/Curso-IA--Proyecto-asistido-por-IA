@@ -1,0 +1,13 @@
+<design>
+  <size width="1280" height="720"></size>
+  <color name="bg-main" value="#0B1F3A"/>
+  <color name="surface-white" value="#FFFFFF"/>
+  <color name="surface-silver" value="#D7DEE8"/>
+  <color name="accent" value="#F4C542"/>
+  <color name="state-ok" value="#22C55E"/>
+  <color name="state-err" value="#EF4444"/>
+  <font name="display" family="Inter" size="48"/>
+  <font name="heading" family="Inter" size="32"/>
+  <font name="body" family="Inter" size="18"/>
+  <font name="caption" family="Inter" size="14"/>
+</design>

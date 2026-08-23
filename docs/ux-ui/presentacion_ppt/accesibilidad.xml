@@ -1,0 +1,44 @@
+<slide id="accesibilidad">
+  <background color="bg-main"/>
+  <shape id="corner-h" type="line" x="1110" y="60" width="110" height="0" stroke="accent" stroke-width="4"/>
+  <shape id="corner-v" type="line" x="1220" y="60" width="0" height="90" stroke="accent" stroke-width="4"/>
+  <text id="slide-kicker" x="80" y="64" width="380" height="22" font="caption" size="14" color="accent">09 · SISTEMA VISUAL Y ACCESIBILIDAD</text>
+  <text id="slide-title" x="80" y="98" width="720" height="54" font="heading" size="42" color="surface-white">Institucional, legible y táctil</text>
+  <text id="slide-intro" x="80" y="158" width="940" height="25" font="body" size="18" color="surface-silver">El sistema combina jerarquía visual, estados claros y controles fáciles de identificar en pantalla móvil.</text>
+  <shape id="swatch-1" type="rect" x="80" y="215" width="180" height="68" corner-radius="15" fill="bg-main" stroke="surface-silver" stroke-width="1"/>
+  <text id="swatch-1-name" x="96" y="229" width="145" height="15" font="caption" size="12" color="surface-silver">AZUL NOCHE</text>
+  <text id="swatch-1-code" x="96" y="251" width="145" height="18" font="body" size="15" color="surface-white">#0B1F3A</text>
+  <shape id="swatch-2" type="rect" x="276" y="215" width="180" height="68" corner-radius="15" fill="surface-silver"/>
+  <text id="swatch-2-name" x="292" y="229" width="145" height="15" font="caption" size="12" color="#526274">GRIS PLATA</text>
+  <text id="swatch-2-code" x="292" y="251" width="145" height="18" font="body" size="15" color="bg-main">#D7DEE8</text>
+  <shape id="swatch-3" type="rect" x="472" y="215" width="180" height="68" corner-radius="15" fill="surface-white"/>
+  <text id="swatch-3-name" x="488" y="229" width="145" height="15" font="caption" size="12" color="#526274">BLANCO</text>
+  <text id="swatch-3-code" x="488" y="251" width="145" height="18" font="body" size="15" color="bg-main">#FFFFFF</text>
+  <shape id="swatch-4" type="rect" x="668" y="215" width="180" height="68" corner-radius="15" fill="accent"/>
+  <text id="swatch-4-name" x="684" y="229" width="145" height="15" font="caption" size="12" color="bg-main">AMARILLO</text>
+  <text id="swatch-4-code" x="684" y="251" width="145" height="18" font="body" size="15" color="bg-main">#F4C542</text>
+  <shape id="swatch-5" type="rect" x="864" y="215" width="156" height="68" corner-radius="15" fill="state-ok"/>
+  <text id="swatch-5-name" x="880" y="229" width="124" height="15" font="caption" size="12" color="surface-white">ÉXITO</text>
+  <text id="swatch-5-code" x="880" y="251" width="124" height="18" font="body" size="15" color="surface-white">#22C55E</text>
+  <shape id="swatch-6" type="rect" x="1036" y="215" width="164" height="68" corner-radius="15" fill="state-err"/>
+  <text id="swatch-6-name" x="1052" y="229" width="132" height="15" font="caption" size="12" color="surface-white">ALERTA</text>
+  <text id="swatch-6-code" x="1052" y="251" width="132" height="18" font="body" size="15" color="surface-white">#EF4444</text>
+  <shape id="a11y-card-1" type="rect" x="80" y="340" width="536" height="105" corner-radius="17" fill="surface-white" shadow="true"/>
+  <icon id="a11y-icon-1" name="eye" x="108" y="369" width="32" height="32" color="bg-main"/>
+  <text id="a11y-title-1" x="160" y="360" width="410" height="23" font="body" size="18" color="bg-main"><strong>Estados perceptibles</strong></text>
+  <text id="a11y-body-1" x="160" y="392" width="410" height="28" font="caption" size="13" color="#526274">Color, iconos y etiquetas textuales comunican asistencia, actividades y decisiones.</text>
+  <shape id="a11y-card-2" type="rect" x="664" y="340" width="536" height="105" corner-radius="17" fill="surface-silver" shadow="true"/>
+  <icon id="a11y-icon-2" name="hand" x="692" y="369" width="32" height="32" color="bg-main"/>
+  <text id="a11y-title-2" x="744" y="360" width="410" height="23" font="body" size="18" color="bg-main"><strong>Interacción visible</strong></text>
+  <text id="a11y-body-2" x="744" y="392" width="410" height="28" font="caption" size="13" color="#526274">Tarjetas y botones con padding, feedback de presión y acciones explícitas.</text>
+  <shape id="a11y-card-3" type="rect" x="80" y="475" width="536" height="105" corner-radius="17" fill="surface-silver" shadow="true"/>
+  <icon id="a11y-icon-3" name="route" x="108" y="504" width="32" height="32" color="bg-main"/>
+  <text id="a11y-title-3" x="160" y="495" width="410" height="23" font="body" size="18" color="bg-main"><strong>Navegación coherente</strong></text>
+  <text id="a11y-body-3" x="160" y="527" width="410" height="28" font="caption" size="13" color="#526274">Pestañas persistentes, volver visible y cambio de identidad en una única ruta.</text>
+  <shape id="a11y-card-4" type="rect" x="664" y="475" width="536" height="105" corner-radius="17" fill="#FFF6D7" shadow="true"/>
+  <icon id="a11y-icon-4" name="clipboard-check" x="692" y="504" width="32" height="32" color="bg-main"/>
+  <text id="a11y-title-4" x="744" y="495" width="410" height="23" font="body" size="18" color="bg-main"><strong>Siguiente auditoría</strong></text>
+  <text id="a11y-body-4" x="744" y="527" width="410" height="28" font="caption" size="13" color="#526274">Contraste AA, VoiceOver y Dynamic Type requieren prueba formal en dispositivos.</text>
+  <text id="a11y-reference" x="80" y="620" width="1050" height="18" font="caption" size="13" color="surface-silver">Referencias: Apple HIG propone interfaces intuitivas, perceptibles y adaptables; WCAG 2.2: perceptible, operable, comprensible y robusta.</text>
+  <text id="slide-number" x="1180" y="675" width="40" height="20" font="caption" size="14" color="surface-silver" align="right">10</text>
+</slide>

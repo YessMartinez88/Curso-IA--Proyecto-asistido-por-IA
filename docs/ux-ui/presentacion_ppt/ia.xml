@@ -1,0 +1,33 @@
+<slide id="ia">
+  <background color="bg-main"/>
+  <shape id="corner-h" type="line" x="1110" y="60" width="110" height="0" stroke="accent" stroke-width="4"/>
+  <shape id="corner-v" type="line" x="1220" y="60" width="0" height="90" stroke="accent" stroke-width="4"/>
+  <text id="slide-kicker" x="80" y="64" width="320" height="22" font="caption" size="14" color="accent">10 · PROYECTO CON IA</text>
+  <text id="slide-title" x="80" y="98" width="700" height="54" font="heading" size="42" color="surface-white">IA como copiloto de desarrollo</text>
+  <text id="slide-intro" x="80" y="158" width="920" height="27" font="body" size="19" color="surface-silver">La IA aceleró la exploración y producción; las decisiones de producto se revisaron en contexto.</text>
+  <text id="process-label" x="80" y="220" width="260" height="20" font="caption" size="14" color="accent">APORTES DE IA</text>
+  <shape id="ia-step-1" type="rect" x="80" y="252" width="620" height="68" corner-radius="15" fill="surface-white" shadow="true"/>
+  <icon id="ia-step-icon-1" name="lightbulb" x="103" y="271" width="28" height="28" color="bg-main"/>
+  <text id="ia-step-title-1" x="150" y="266" width="220" height="20" font="body" size="17" color="bg-main"><strong>Descubrimiento</strong></text>
+  <text id="ia-step-body-1" x="370" y="266" width="285" height="30" font="caption" size="13" color="#526274">Síntesis de módulos, roles, prioridades y escenarios.</text>
+  <shape id="ia-step-2" type="rect" x="80" y="338" width="620" height="68" corner-radius="15" fill="surface-silver" shadow="true"/>
+  <icon id="ia-step-icon-2" name="panels-top-left" x="103" y="357" width="28" height="28" color="bg-main"/>
+  <text id="ia-step-title-2" x="150" y="352" width="220" height="20" font="body" size="17" color="bg-main"><strong>UX/UI</strong></text>
+  <text id="ia-step-body-2" x="370" y="352" width="285" height="30" font="caption" size="13" color="#526274">Alternativas de flujos, jerarquía, estados y consistencia.</text>
+  <shape id="ia-step-3" type="rect" x="80" y="424" width="620" height="68" corner-radius="15" fill="surface-white" shadow="true"/>
+  <icon id="ia-step-icon-3" name="code-2" x="103" y="443" width="28" height="28" color="bg-main"/>
+  <text id="ia-step-title-3" x="150" y="438" width="220" height="20" font="body" size="17" color="bg-main"><strong>Desarrollo</strong></text>
+  <text id="ia-step-body-3" x="370" y="438" width="285" height="30" font="caption" size="13" color="#526274">Código, pruebas, rutas, datos y documentación de apoyo.</text>
+  <shape id="ia-step-4" type="rect" x="80" y="510" width="620" height="68" corner-radius="15" fill="surface-silver" shadow="true"/>
+  <icon id="ia-step-icon-4" name="shield-check" x="103" y="529" width="28" height="28" color="bg-main"/>
+  <text id="ia-step-title-4" x="150" y="524" width="220" height="20" font="body" size="17" color="bg-main"><strong>Calidad</strong></text>
+  <text id="ia-step-body-4" x="370" y="524" width="285" height="30" font="caption" size="13" color="#526274">Diagnóstico de errores, auditoría de enlaces y regresión.</text>
+  <shape id="human-card" type="rect" x="760" y="252" width="440" height="326" corner-radius="22" fill="#FFF6D7" shadow="true"/>
+  <icon id="human-icon" name="user-round-check" x="798" y="290" width="44" height="44" color="bg-main"/>
+  <text id="human-card-kicker" x="870" y="297" width="250" height="18" font="caption" size="13" color="#526274">CRITERIO HUMANO</text>
+  <text id="human-card-title" x="798" y="360" width="330" height="52" font="body" size="25" color="bg-main" line-height="1.15">La autora define, revisa y corrige.</text>
+  <text id="human-card-body" x="798" y="436" width="340" height="70" font="body" size="17" color="#405064" line-height="1.35">La IA no reemplaza la decisión de producto: propone, acelera y ayuda a verificar; el contexto educativo define qué se conserva.</text>
+  <shape id="human-card-rule" type="line" x="798" y="530" width="330" height="0" stroke="#D1B35A" stroke-width="2"/>
+  <text id="human-card-foot" x="798" y="544" width="330" height="18" font="caption" size="12" color="#526274">Explorar → evaluar → ajustar → validar</text>
+  <text id="slide-number" x="1180" y="675" width="40" height="20" font="caption" size="14" color="surface-silver" align="right">11</text>
+</slide>

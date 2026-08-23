@@ -1,0 +1,144 @@
+{
+  "project_info": {
+    "title": "Asistencia Instituto",
+    "created": 1787447829.793,
+    "last_updated": 1787448152.358,
+    "total_slides": 12
+  },
+  "slides": [
+    {
+      "id": "portada",
+      "state": "edited",
+      "pageNum": 1
+    },
+    {
+      "id": "problema",
+      "state": "edited",
+      "pageNum": 2
+    },
+    {
+      "id": "propuesta",
+      "state": "edited",
+      "pageNum": 3
+    },
+    {
+      "id": "roles",
+      "state": "edited",
+      "pageNum": 4
+    },
+    {
+      "id": "alumno",
+      "state": "edited",
+      "pageNum": 5
+    },
+    {
+      "id": "asistencia",
+      "state": "edited",
+      "pageNum": 6
+    },
+    {
+      "id": "docente",
+      "state": "edited",
+      "pageNum": 7
+    },
+    {
+      "id": "administrativo",
+      "state": "edited",
+      "pageNum": 8
+    },
+    {
+      "id": "arquitectura",
+      "state": "edited",
+      "pageNum": 9
+    },
+    {
+      "id": "accesibilidad",
+      "state": "edited",
+      "pageNum": 10
+    },
+    {
+      "id": "ia",
+      "state": "edited",
+      "pageNum": 11
+    },
+    {
+      "id": "cierre",
+      "state": "edited",
+      "pageNum": 12
+    }
+  ],
+  "outline": [
+    {
+      "id": "portada",
+      "title": "Asistencia Instituto",
+      "summary": "MVP móvil para gestión de asistencia y seguimiento académico, presentado como proyecto desarrollado con asistencia de IA.",
+      "image_plan": "Use a suitable image if needed"
+    },
+    {
+      "id": "problema",
+      "title": "El problema institucional",
+      "summary": "Fragmentación de asistencia, actividades, entregas y justificaciones; oportunidad de centralizar trazabilidad.",
+      "image_plan": "Use a suitable image if needed"
+    },
+    {
+      "id": "propuesta",
+      "title": "Una experiencia académica contextual",
+      "summary": "Cómo el MVP conecta asistencia QR, clases, actividades, seguimiento y justificaciones.",
+      "image_plan": "Use a suitable image if needed"
+    },
+    {
+      "id": "roles",
+      "title": "Tres perfiles, tres responsabilidades",
+      "summary": "Necesidades, permisos y funciones clave de Alumno, Docente y Administrativo.",
+      "image_plan": "Use a suitable image if needed"
+    },
+    {
+      "id": "alumno",
+      "title": "Experiencia del Alumno",
+      "summary": "Inicio por clases, detalle contextual y estados de las actividades académicas.",
+      "image_plan": "Use a suitable image if needed"
+    },
+    {
+      "id": "asistencia",
+      "title": "Del QR a una justificación trazable",
+      "summary": "Flujo de presencia, historial de asistencia, comentario o archivo y revisión posterior.",
+      "image_plan": "Use a suitable image if needed"
+    },
+    {
+      "id": "docente",
+      "title": "Panel Docente",
+      "summary": "Actividades por comisión, adjuntos, entregas, calificaciones y devoluciones.",
+      "image_plan": "Use a suitable image if needed"
+    },
+    {
+      "id": "administrativo",
+      "title": "Panel Administrativo",
+      "summary": "Gestión de comisiones y validación institucional de inasistencias.",
+      "image_plan": "Use a suitable image if needed"
+    },
+    {
+      "id": "arquitectura",
+      "title": "Arquitectura de información",
+      "summary": "Navegación persistente y flujo de intercambio entre los tres roles.",
+      "image_plan": "Use a suitable image if needed"
+    },
+    {
+      "id": "accesibilidad",
+      "title": "Sistema visual y accesibilidad",
+      "summary": "Paleta, patrones UI y criterios de diseño móvil inclusivo.",
+      "image_plan": "Use a suitable image if needed"
+    },
+    {
+      "id": "ia",
+      "title": "IA como copiloto de desarrollo",
+      "summary": "Aportes de IA y criterios humanos en descubrimiento, UX/UI, desarrollo y calidad.",
+      "image_plan": "Use a suitable image if needed"
+    },
+    {
+      "id": "cierre",
+      "title": "Validación, límites y próximos pasos",
+      "summary": "Evidencia técnica del MVP, oportunidades de mejora y mensaje de cierre.",
+      "image_plan": "Use a suitable image if needed"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+flowchart TD
+    A[Selector de identidad demo] --> B[Alumno · Sofía]
+    A --> C[Docente · Laura]
+    A --> D[Administrativo · Martina]
+
+    B --> B1[Inicio: mis clases]
+    B1 --> B2[Detalle de clase]
+    B2 --> B3[Actividades: pendiente / revisión / cerrada]
+    B2 --> B4[Asistencia QR]
+    B1 --> B5[Registro de asistencia]
+    B5 --> B6[Justificar inasistencia]
+    B6 --> B7[Comentario y/o constancia]
+
+    C --> C1[Agenda y comisiones]
+    C --> C2[Asistencia: abrir QR]
+    C2 --> C3[Actividades por comisión]
+    C3 --> C4[Crear, revisar y calificar]
+    C --> C5[Revisar justificaciones]
+
+    D --> D1[Agenda institucional]
+    D1 --> D2[Crear / activar comisiones]
+    D --> D3[Validar justificaciones]
+
+    B7 --> C5
+    B7 --> D3
+    C5 --> E[Estado actualizado para Alumno]
+    D3 --> E
+
+    B --> F[Perfil]
+    C --> F
+    D --> F
+    F --> A

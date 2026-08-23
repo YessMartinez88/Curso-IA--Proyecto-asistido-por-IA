@@ -1,0 +1,30 @@
+<slide id="roles">
+  <background color="bg-main"/>
+  <shape id="corner-h" type="line" x="1110" y="60" width="110" height="0" stroke="accent" stroke-width="4"/>
+  <shape id="corner-v" type="line" x="1220" y="60" width="0" height="90" stroke="accent" stroke-width="4"/>
+  <text id="slide-kicker" x="80" y="64" width="360" height="22" font="caption" size="14" color="accent">03 · DISEÑO POR ROLES</text>
+  <text id="slide-title" x="80" y="98" width="780" height="54" font="heading" size="42" color="surface-white">Tres perfiles, tres responsabilidades</text>
+  <text id="slide-intro" x="80" y="168" width="870" height="31" font="body" size="20" color="surface-silver">Cada identidad accede a una vista útil sin exponer opciones ajenas.</text>
+  <shape id="role-card-student" type="rect" x="80" y="235" width="344" height="366" corner-radius="20" fill="surface-white" shadow="true"/>
+  <shape id="role-accent-student" type="rect" x="80" y="235" width="344" height="12" corner-radius="6" fill="accent"/>
+  <icon id="role-icon-student" name="graduation-cap" x="108" y="273" width="42" height="42" color="bg-main"/>
+  <text id="role-title-student" x="108" y="334" width="250" height="30" font="body" size="22" color="bg-main"><strong>Alumno</strong></text>
+  <text id="role-name-student" x="108" y="367" width="250" height="20" font="caption" size="14" color="#526274">Sofía Ramírez · contexto académico</text>
+  <text id="role-body-student" x="108" y="410" width="268" height="135" font="body" size="16" color="#405064" line-height="1.42"><ul bullet="•"><li>Ve clases, agenda, notas e historial.</li><li>Registra presencia mediante QR.</li><li>Envía entregas y justifica ausencias.</li></ul></text>
+  <shape id="role-card-teacher" type="rect" x="468" y="235" width="344" height="366" corner-radius="20" fill="surface-silver" shadow="true"/>
+  <shape id="role-accent-teacher" type="rect" x="468" y="235" width="344" height="12" corner-radius="6" fill="accent"/>
+  <icon id="role-icon-teacher" name="presentation" x="496" y="273" width="42" height="42" color="bg-main"/>
+  <text id="role-title-teacher" x="496" y="334" width="250" height="30" font="body" size="22" color="bg-main"><strong>Docente</strong></text>
+  <text id="role-name-teacher" x="496" y="367" width="250" height="20" font="caption" size="14" color="#526274">Laura Méndez · gestión de comisión</text>
+  <text id="role-body-teacher" x="496" y="410" width="268" height="135" font="body" size="16" color="#405064" line-height="1.42"><ul bullet="•"><li>Abre sesiones QR por comisión.</li><li>Publica y corrige actividades.</li><li>Revisa justificaciones de su grupo.</li></ul></text>
+  <shape id="role-card-admin" type="rect" x="856" y="235" width="344" height="366" corner-radius="20" fill="surface-white" shadow="true"/>
+  <shape id="role-accent-admin" type="rect" x="856" y="235" width="344" height="12" corner-radius="6" fill="accent"/>
+  <icon id="role-icon-admin" name="building-2" x="884" y="273" width="42" height="42" color="bg-main"/>
+  <text id="role-title-admin" x="884" y="334" width="250" height="30" font="body" size="22" color="bg-main"><strong>Administrativo</strong></text>
+  <text id="role-name-admin" x="884" y="367" width="250" height="20" font="caption" size="14" color="#526274">Martina Costa · operación institucional</text>
+  <text id="role-body-admin" x="884" y="410" width="268" height="135" font="body" size="16" color="#405064" line-height="1.42"><ul bullet="•"><li>Crea y activa comisiones.</li><li>Consulta inscripciones y sesiones.</li><li>Valida justificaciones institucionales.</li></ul></text>
+  <shape id="rule-card" type="rect" x="80" y="625" width="1120" height="42" corner-radius="14" fill="#FFFFFF18" stroke="#FFFFFF33" stroke-width="1"/>
+  <icon id="rule-icon" name="shield-check" x="103" y="634" width="22" height="22" color="accent"/>
+  <text id="rule-text" x="140" y="635" width="1000" height="20" font="body" size="16" color="surface-white">Regla de navegación: una identidad activa por vez; el cambio de perfil se realiza desde Perfil.</text>
+  <text id="slide-number" x="1180" y="685" width="40" height="20" font="caption" size="14" color="surface-silver" align="right">04</text>
+</slide>

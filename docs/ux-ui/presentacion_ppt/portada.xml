@@ -1,0 +1,31 @@
+<slide id="portada">
+  <background color="bg-main"/>
+  <shape id="accent-bar" type="rect" x="80" y="150" width="108" height="10" corner-radius="5" fill="accent"/>
+  <shape id="corner-top-h" type="line" x="1110" y="60" width="110" height="0" stroke="accent" stroke-width="4"/>
+  <shape id="corner-top-v" type="line" x="1220" y="60" width="0" height="90" stroke="accent" stroke-width="4"/>
+  <shape id="corner-bottom-h" type="line" x="60" y="660" width="95" height="0" stroke="accent" stroke-width="4"/>
+  <shape id="corner-bottom-v" type="line" x="60" y="585" width="0" height="75" stroke="accent" stroke-width="4"/>
+  <icon id="cover-icon" name="qr-code" x="80" y="82" width="38" height="38" color="accent"/>
+  <text id="cover-kicker" x="132" y="88" width="360" height="24" font="caption" size="15" color="surface-silver" wrap="false">INSTITUTO DE INFORMÁTICA · MVP MÓVIL</text>
+  <text id="cover-title" x="80" y="184" width="790" height="136" font="display" size="62" color="surface-white" line-height="1.04">Asistencia
+Instituto</text>
+  <text id="cover-subtitle" x="84" y="346" width="690" height="67" font="body" size="24" color="surface-silver" line-height="1.28">Informe UX/UI para una experiencia de asistencia y seguimiento académico contextual.</text>
+  <shape id="tag-card" type="rect" x="84" y="460" width="420" height="64" corner-radius="16" fill="#FFFFFF18" stroke="#FFFFFF33" stroke-width="1"/>
+  <text id="tag-card-text" x="104" y="477" width="380" height="30" font="body" size="17" color="surface-white" anchor="middle">Proyecto desarrollado con asistencia de IA</text>
+  <shape id="phone-shadow" type="rect" x="950" y="150" width="235" height="440" corner-radius="28" fill="#00000055"/>
+  <shape id="phone-frame" type="rect" x="940" y="140" width="235" height="440" corner-radius="28" fill="surface-white"/>
+  <shape id="phone-top" type="rect" x="960" y="162" width="195" height="76" corner-radius="18" fill="bg-main"/>
+  <icon id="phone-top-icon" name="graduation-cap" x="976" y="181" width="24" height="24" color="accent"/>
+  <text id="phone-top-title" x="1011" y="178" width="124" height="20" font="caption" size="12" color="surface-silver">ASISTENCIA</text>
+  <text id="phone-top-name" x="1011" y="197" width="124" height="24" font="body" size="16" color="surface-white">Sofía Ramírez</text>
+  <shape id="phone-card-one" type="rect" x="960" y="260" width="195" height="87" corner-radius="15" fill="surface-silver"/>
+  <text id="phone-card-one-title" x="975" y="276" width="150" height="20" font="body" size="14" color="bg-main">Bases de Datos</text>
+  <text id="phone-card-one-detail" x="975" y="301" width="150" height="16" font="caption" size="12" color="#526274">Asistencia · Actividades</text>
+  <shape id="phone-chip-one" type="rect" x="975" y="323" width="86" height="14" corner-radius="7" fill="accent"/>
+  <shape id="phone-card-two" type="rect" x="960" y="362" width="195" height="87" corner-radius="15" fill="#EAF6F1"/>
+  <text id="phone-card-two-title" x="975" y="378" width="150" height="20" font="body" size="14" color="bg-main">Actividad entregada</text>
+  <text id="phone-card-two-detail" x="975" y="403" width="150" height="16" font="caption" size="12" color="#526274">En revisión docente</text>
+  <shape id="phone-chip-two" type="rect" x="975" y="425" width="72" height="14" corner-radius="7" fill="state-ok"/>
+  <text id="cover-footer" x="80" y="635" width="550" height="22" font="caption" size="14" color="surface-silver">Capacitación · Diseño, desarrollo y validación de un MVP</text>
+  <text id="slide-number" x="1180" y="665" width="40" height="20" font="caption" size="14" color="surface-silver" align="right">01</text>
+</slide>

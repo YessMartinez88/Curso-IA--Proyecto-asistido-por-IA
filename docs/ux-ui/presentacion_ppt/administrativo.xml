@@ -1,0 +1,47 @@
+<slide id="administrativo">
+  <background color="bg-main"/>
+  <shape id="corner-h" type="line" x="1110" y="60" width="110" height="0" stroke="accent" stroke-width="4"/>
+  <shape id="corner-v" type="line" x="1220" y="60" width="0" height="90" stroke="accent" stroke-width="4"/>
+  <text id="slide-kicker" x="80" y="64" width="355" height="22" font="caption" size="14" color="accent">07 · PANEL ADMINISTRATIVO</text>
+  <text id="slide-title" x="80" y="98" width="720" height="54" font="heading" size="42" color="surface-white">Operación institucional y validación</text>
+  <shape id="admin-card-1" type="rect" x="80" y="220" width="280" height="105" corner-radius="16" fill="surface-white" shadow="true"/>
+  <icon id="admin-card-icon-1" name="plus-circle" x="105" y="246" width="28" height="28" color="bg-main"/>
+  <text id="admin-card-title-1" x="151" y="239" width="170" height="21" font="body" size="16" color="bg-main"><strong>Comisiones</strong></text>
+  <text id="admin-card-body-1" x="105" y="278" width="210" height="30" font="caption" size="13" color="#526274">Crear borradores, completar datos y activar.</text>
+  <shape id="admin-card-2" type="rect" x="80" y="350" width="280" height="105" corner-radius="16" fill="surface-silver" shadow="true"/>
+  <icon id="admin-card-icon-2" name="users-round" x="105" y="376" width="28" height="28" color="bg-main"/>
+  <text id="admin-card-title-2" x="151" y="369" width="170" height="21" font="body" size="16" color="bg-main"><strong>Operación</strong></text>
+  <text id="admin-card-body-2" x="105" y="408" width="210" height="30" font="caption" size="13" color="#526274">Consultar inscripciones y sesiones de asistencia.</text>
+  <shape id="admin-card-3" type="rect" x="80" y="480" width="280" height="105" corner-radius="16" fill="#FFF6D7" shadow="true"/>
+  <icon id="admin-card-icon-3" name="file-check" x="105" y="506" width="28" height="28" color="bg-main"/>
+  <text id="admin-card-title-3" x="151" y="499" width="170" height="21" font="body" size="16" color="bg-main"><strong>Justificaciones</strong></text>
+  <text id="admin-card-body-3" x="105" y="538" width="210" height="30" font="caption" size="13" color="#526274">Validar solicitudes con evidencia y observación.</text>
+  <shape id="dashboard-shadow" type="rect" x="452" y="214" width="748" height="385" corner-radius="22" fill="#00000055"/>
+  <shape id="dashboard-frame" type="rect" x="442" y="204" width="748" height="385" corner-radius="22" fill="surface-white"/>
+  <shape id="dashboard-header" type="rect" x="464" y="225" width="704" height="70" corner-radius="15" fill="bg-main"/>
+  <text id="dashboard-kicker" x="488" y="240" width="270" height="15" font="caption" size="11" color="surface-silver">GESTIÓN ACADÉMICA</text>
+  <text id="dashboard-title" x="488" y="260" width="280" height="23" font="body" size="18" color="surface-white">Comisiones registradas</text>
+  <shape id="dashboard-count" type="ellipse" x="1103" y="241" width="42" height="42" fill="accent"/>
+  <text id="dashboard-count-text" x="1103" y="254" width="42" height="16" font="body" size="15" color="bg-main" align="center"><strong>24</strong></text>
+  <text id="table-header-subject" x="486" y="322" width="180" height="16" font="caption" size="11" color="#526274">COMISIÓN</text>
+  <text id="table-header-teacher" x="745" y="322" width="150" height="16" font="caption" size="11" color="#526274">DOCENTE</text>
+  <text id="table-header-status" x="1015" y="322" width="100" height="16" font="caption" size="11" color="#526274">ESTADO</text>
+  <shape id="table-row-1" type="rect" x="464" y="344" width="704" height="58" corner-radius="10" fill="surface-silver"/>
+  <text id="table-row-1-subject" x="486" y="362" width="230" height="17" font="body" size="14" color="bg-main">Bases de Datos · 2° A</text>
+  <text id="table-row-1-teacher" x="745" y="362" width="180" height="17" font="caption" size="13" color="#405064">Laura Méndez</text>
+  <shape id="table-row-1-status" type="rect" x="1010" y="357" width="92" height="25" corner-radius="12" fill="#EAF6F1"/>
+  <text id="table-row-1-status-text" x="1010" y="364" width="92" height="12" font="caption" size="10" color="bg-main" align="center"><strong>ACTIVA</strong></text>
+  <shape id="table-row-2" type="rect" x="464" y="414" width="704" height="58" corner-radius="10" fill="surface-silver"/>
+  <text id="table-row-2-subject" x="486" y="432" width="230" height="17" font="body" size="14" color="bg-main">Programación II · 2° B</text>
+  <text id="table-row-2-teacher" x="745" y="432" width="180" height="17" font="caption" size="13" color="#405064">Laura Méndez</text>
+  <shape id="table-row-2-status" type="rect" x="1010" y="427" width="100" height="25" corner-radius="12" fill="#FFF6D7"/>
+  <text id="table-row-2-status-text" x="1010" y="434" width="100" height="12" font="caption" size="10" color="bg-main" align="center"><strong>BORRADOR</strong></text>
+  <shape id="justification-row" type="rect" x="464" y="495" width="704" height="70" corner-radius="12" fill="bg-main"/>
+  <icon id="justification-row-icon" name="file-check-2" x="488" y="517" width="28" height="28" color="accent"/>
+  <text id="justification-row-title" x="534" y="510" width="370" height="19" font="body" size="15" color="surface-white">Justificación de inasistencia · Sofía Ramírez</text>
+  <text id="justification-row-detail" x="534" y="536" width="370" height="14" font="caption" size="11" color="surface-silver">Comentario + constancia adjunta · pendiente de decisión</text>
+  <shape id="justification-action" type="rect" x="1013" y="516" width="125" height="30" corner-radius="15" fill="accent"/>
+  <text id="justification-action-text" x="1013" y="525" width="125" height="12" font="caption" size="10" color="bg-main" align="center"><strong>VALIDAR</strong></text>
+  <text id="admin-principle" x="80" y="625" width="1120" height="20" font="body" size="16" color="surface-silver" align="center">El rol administrativo asegura trazabilidad institucional; no sustituye la corrección pedagógica.</text>
+  <text id="slide-number" x="1180" y="675" width="40" height="20" font="caption" size="14" color="surface-silver" align="right">08</text>
+</slide>

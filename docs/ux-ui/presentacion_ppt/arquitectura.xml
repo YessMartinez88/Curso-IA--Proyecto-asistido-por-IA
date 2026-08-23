@@ -1,0 +1,20 @@
+<slide id="arquitectura">
+  <background color="bg-main"/>
+  <shape id="corner-h" type="line" x="1110" y="60" width="110" height="0" stroke="accent" stroke-width="4"/>
+  <shape id="corner-v" type="line" x="1220" y="60" width="0" height="90" stroke="accent" stroke-width="4"/>
+  <text id="slide-kicker" x="80" y="64" width="360" height="22" font="caption" size="14" color="accent">08 · ARQUITECTURA DE INFORMACIÓN</text>
+  <text id="slide-title" x="80" y="98" width="650" height="54" font="heading" size="42" color="surface-white">Navegación simple, contexto claro</text>
+  <text id="slide-intro" x="80" y="158" width="950" height="24" font="body" size="18" color="surface-silver">El flujo conecta roles sin exponer opciones innecesarias: Alumno envía, Docente o Administrativo revisa y el estado vuelve al historial.</text>
+  <shape id="diagram-frame" type="rect" x="80" y="203" width="1120" height="350" corner-radius="20" fill="surface-white" shadow="true"/>
+  <image id="flow-diagram" src="https://private-us-east-1.manuscdn.com/sessionFile/CbV0dVmJqLlNCS1KtKJuQO/sandbox/slides_resource_ildfy3himuws8vudnivfd-df5bcfbb-e2b-prod-gcp-us-east1_1787448041667_na1fn_L2hvbWUvdWJ1bnR1L2FzaXN0ZW5jaWEtbW9iaWxlL2RvY3MvdXgtdWkvZmx1am8tcHJpbmNpcGFs.png?x-oss-process=image/resize,w_1560,h_1560/format,webp&Expires=1789430400&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvQ2JWMGRWbUpxTGxOQ1MxS3RLSnVRTy9zYW5kYm94L3NsaWRlc19yZXNvdXJjZV9pbGRmeTNoaW11d3M4dnVkbml2ZmQtZGY1YmNmYmItZTJiLXByb2QtZ2NwLXVzLWVhc3QxXzE3ODc0NDgwNDE2NjdfbmExZm5fTDJodmJXVXZkV0oxYm5SMUwyRnphWE4wWlc1amFXRXRiVzlpYVd4bEwyUnZZM012ZFhndGRXa3ZabXgxYW04dGNISnBibU5wY0dGcy5wbmc~eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsd18xNTYwLGhfMTU2MC9mb3JtYXQsd2VicCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4OTQzMDQwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIELlB62H1L4YwHz3xx9jt3hQCXdl1vWJ6l8gs0nfjbbPAiEA~-tNJgwLdBDHrrZ-tPbHXpoOAacvCGae6~F1hSneq5s_" x="96" y="218" width="1088" height="320" fit="contain" corner-radius="14"/>
+  <shape id="tab-card-1" type="rect" x="220" y="585" width="220" height="42" corner-radius="16" fill="#FFFFFF18" stroke="#FFFFFF30" stroke-width="1"/>
+  <icon id="tab-icon-1" name="house" x="241" y="596" width="20" height="20" color="accent"/>
+  <text id="tab-text-1" x="273" y="598" width="140" height="16" font="caption" size="13" color="surface-white">Inicio y Agenda</text>
+  <shape id="tab-card-2" type="rect" x="530" y="585" width="220" height="42" corner-radius="16" fill="#FFFFFF18" stroke="#FFFFFF30" stroke-width="1"/>
+  <icon id="tab-icon-2" name="scan-line" x="551" y="596" width="20" height="20" color="accent"/>
+  <text id="tab-text-2" x="583" y="598" width="140" height="16" font="caption" size="13" color="surface-white">Asistencia QR</text>
+  <shape id="tab-card-3" type="rect" x="840" y="585" width="220" height="42" corner-radius="16" fill="#FFFFFF18" stroke="#FFFFFF30" stroke-width="1"/>
+  <icon id="tab-icon-3" name="user-round" x="861" y="596" width="20" height="20" color="accent"/>
+  <text id="tab-text-3" x="893" y="598" width="140" height="16" font="caption" size="13" color="surface-white">Perfil y cambio de rol</text>
+  <text id="slide-number" x="1180" y="675" width="40" height="20" font="caption" size="14" color="surface-silver" align="right">09</text>
+</slide>

@@ -1,0 +1,28 @@
+<slide id="asistencia">
+  <background color="bg-main"/>
+  <shape id="corner-h" type="line" x="1110" y="60" width="110" height="0" stroke="accent" stroke-width="4"/>
+  <shape id="corner-v" type="line" x="1220" y="60" width="0" height="90" stroke="accent" stroke-width="4"/>
+  <text id="slide-kicker" x="80" y="64" width="340" height="22" font="caption" size="14" color="accent">05 · ASISTENCIA Y TRAZABILIDAD</text>
+  <text id="slide-title" x="80" y="98" width="780" height="54" font="heading" size="42" color="surface-white">Del QR a una justificación trazable</text>
+  <text id="slide-intro" x="80" y="168" width="910" height="30" font="body" size="20" color="surface-silver">La ausencia no termina en un registro: inicia un circuito claro de evidencia, revisión y respuesta.</text>
+  <shape id="flow-line" type="line" x="130" y="358" width="1020" height="0" stroke="surface-silver" stroke-width="3"/>
+  <shape id="node-1" type="ellipse" x="122" y="320" width="76" height="76" fill="accent"/>
+  <icon id="node-icon-1" name="qr-code" x="143" y="341" width="34" height="34" color="bg-main"/>
+  <shape id="node-2" type="ellipse" x="362" y="320" width="76" height="76" fill="surface-white"/>
+  <icon id="node-icon-2" name="scan-line" x="383" y="341" width="34" height="34" color="bg-main"/>
+  <shape id="node-3" type="ellipse" x="602" y="320" width="76" height="76" fill="#FFF6D7"/>
+  <icon id="node-icon-3" name="file-pen-line" x="623" y="341" width="34" height="34" color="bg-main"/>
+  <shape id="node-4" type="ellipse" x="842" y="320" width="76" height="76" fill="surface-silver"/>
+  <icon id="node-icon-4" name="search-check" x="863" y="341" width="34" height="34" color="bg-main"/>
+  <shape id="node-5" type="ellipse" x="1082" y="320" width="76" height="76" fill="state-ok"/>
+  <icon id="node-icon-5" name="circle-check" x="1103" y="341" width="34" height="34" color="surface-white"/>
+  <text id="node-label-1" x="85" y="238" width="150" height="51" font="body" size="17" color="surface-white" align="center"><p><strong>1. Sesión QR</strong></p><p size="14" color="surface-silver">Docente abre la comisión</p></text>
+  <text id="node-label-2" x="325" y="430" width="150" height="51" font="body" size="17" color="surface-white" align="center"><p><strong>2. Registro</strong></p><p size="14" color="surface-silver">Alumno marca presencia</p></text>
+  <text id="node-label-3" x="565" y="238" width="150" height="51" font="body" size="17" color="surface-white" align="center"><p><strong>3. Justificación</strong></p><p size="14" color="surface-silver">Comentario y/o archivo</p></text>
+  <text id="node-label-4" x="805" y="430" width="150" height="51" font="body" size="17" color="surface-white" align="center"><p><strong>4. Revisión</strong></p><p size="14" color="surface-silver">Docente o Administrativo</p></text>
+  <text id="node-label-5" x="1045" y="238" width="150" height="51" font="body" size="17" color="surface-white" align="center"><p><strong>5. Estado</strong></p><p size="14" color="surface-silver">Historial actualizado</p></text>
+  <shape id="bottom-callout" type="rect" x="160" y="555" width="960" height="68" corner-radius="18" fill="#FFFFFF18" stroke="#FFFFFF30" stroke-width="1"/>
+  <icon id="bottom-callout-icon" name="paperclip" x="192" y="575" width="27" height="27" color="accent"/>
+  <text id="bottom-callout-text" x="240" y="572" width="820" height="29" font="body" size="18" color="surface-white" anchor="middle">La justificación admite comentario, constancia de hasta 5 MB o ambos.</text>
+  <text id="slide-number" x="1180" y="665" width="40" height="20" font="caption" size="14" color="surface-silver" align="right">06</text>
+</slide>
